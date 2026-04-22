@@ -1,4 +1,4 @@
-# 📊 Pipeline de Análise de Vendas: SQL + Python + Power BI
+# 📊 Pipeline de Dados: Da Extração ao Insight (SQL + Python + Power BI)
 
 ## 📌 Visão Geral
 Este projeto consiste em um pipeline completo de dados para análise de performance de vendas globais. O objetivo foi extrair dados de um banco SQLite, processá-los via Python para garantir a integridade das métricas e criar um dashboard interativo no Power BI para suporte à decisão gerencial.
