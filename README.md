@@ -27,6 +27,12 @@ Este projeto consiste em um pipeline completo de dados para análise de performa
 - **Mix de Produto:** Embora "Material de Escritório" gere o maior volume de pedidos, a categoria de Tecnologia é a principal responsável pelo faturamento (Geração de Valor), sugerindo diferentes estratégias de marketing para cada segmento.
 - **Logística:** Comparativo de custos de envio por prioridade de entrega, auxiliando na otimização de fretes.
 
+## 💡 Decisão de Negócio
+
+- **Marketing:** Implementação de estratégias segmentadas para maximizar o retorno por categoria (foco em volume vs. foco em valor).
+
+- **Operações:** Reestruturação da política de fretes para preservação da margem de contribuição.
+
 ## ⚖️ Conformidade e Ética
 O projeto foi desenvolvido seguindo boas práticas de manipulação de dados, garantindo que as métricas de faturamento e custos reflitam a realidade transacional do banco de dados de origem.
 O **banco de dados** é **ficticio**, obtido do curso **Data Science Academy** - Microsoft Power BI Para Business Intelligence e Data Science.
